@@ -1,5 +1,14 @@
-# 💫 About Me:
-I am Computer Science Undergraduate (4th Semester Completed) with a strong focus on modern frontend engineering and web application development.<br><br>Skilled in React, Next.js, API integration, and advanced frontend concepts, delivering responsive and user-centric digital experiences.<br><br>Committed to continuous learning, clean architecture, performance optimization, and building scalable software solutions.<br>
+## Hi,Muhammad I'm Muneeb Tahir 
+
+🎓 BS Computer Science Student (4th Semester Completed)
+💻 Frontend Developer specializing in React.js, Next.js, JavaScript, and Tailwind CSS
+🚀 Passionate about building scalable, high-performance web applications and modern user experiences
+
+## About Me
+
+I am a Computer Science undergraduate with a strong interest in frontend engineering and modern web development. I have experience building responsive and interactive web applications using React.js, Next.js, and JavaScript.
+
+My work includes API integration, dynamic data handling, state management, and implementing advanced frontend concepts to create efficient and user-centric digital experiences. I am committed to writing clean, maintainable code and continuously expanding my expertise in modern web technologies.
 
 
 ## 🌐 Socials:
