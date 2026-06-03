@@ -1,8 +1,8 @@
 ## Hi,Muhammad I'm Muneeb Tahir 
 
-🎓 BS Computer Science Student (4th Semester Completed)
-💻 Frontend Developer specializing in React.js, Next.js, JavaScript, and Tailwind CSS
-🚀 Passionate about building scalable, high-performance web applications and modern user experiences
+🎓 BS Computer Science Student (4th Semester Completed) <br>
+💻 Frontend Developer specializing in React.js, Next.js, JavaScript, and Tailwind CSS <br>
+🚀 Passionate about building scalable, high-performance web applications and modern user experiences <br>
 
 ## About Me
 
